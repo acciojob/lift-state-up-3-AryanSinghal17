@@ -14,7 +14,7 @@ const App = () => {
         margin:"0px"
       }}
     >
-      <div>
+      <div className="parent">
         <h1>Parent Components</h1>
         
         <div
